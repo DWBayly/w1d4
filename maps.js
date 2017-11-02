@@ -16,7 +16,7 @@ var fun = function(x){
 }
 console.log(arr);
 map(arr,fun);
-console.log(arr);
+console.log(arr);git
 
 
 //
